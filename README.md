@@ -1,5 +1,7 @@
 # 💫 About Me:
-im a final year cybersecurity student working towards projects as a SOC analyst. I'm also deeply passioned about cybersecurity.
+# 👋 About Me:
+I’m a final-year cybersecurity student actively building hands-on experience in networking, system administration, and cybersecurity. My current projects include Nmap scanning, Active Directory labs, SIEM-based threat detection environments, vulnerability assessments, and home lab environments designed to strengthen my practical understanding of enterprise security.
+I’m deeply interested in becoming a SOC Analyst and continuing to develop my skills in threat monitoring, log analysis, incident response, and cybersecurity operations.
 
 
 ## 🌐 Socials:
